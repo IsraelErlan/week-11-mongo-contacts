@@ -1,0 +1,8 @@
+pymongo_cheatsheets.md
+week11_k8s_mongo_contacts_api.md
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.venv
+.env
